@@ -4,6 +4,7 @@ def using_until
    
    until.do == 10 
    puts "Wingardium Leviosa"
+   levitation_force += 1
 end
 
 
